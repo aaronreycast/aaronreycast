@@ -48,8 +48,9 @@ I build **autonomous systems on real robots** — perception, SLAM, and learning
 A fleet of autonomous warehouse robots — task allocation, A* planning, VFH avoidance, and token-based corridor right-of-way — with a 2D decision engine driving a physics-based 3D Simscape visualization.
 **My role:** designed and implemented the dynamic **task allocator** and the **token-based corridor right-of-way** protocol, built the entire **3D Simscape Multibody model** from scratch, and connected the **2D→3D pose pipeline**. *(Teammates contributed additional planning experiments, analytics, and reporting.)*
 
-**[Autonomous Object Sorting Using a Mobile Robot](https://github.com/aaronreycast/Autonomous-Object-Sorting-using-a-Mobile-Robot)** &nbsp;·&nbsp; MATLAB / Simulink
-**My role:** designed and built the full autonomy pipeline — perception → planning → navigation — with a state-machine architecture and custom path-planning / obstacle-avoidance, achieving **100% sorting accuracy** across all six test configurations.
+**[Autonomous Object Sorting Using a Mobile Robot](https://github.com/aaronreycast/Autonomous-Object-Sorting-using-a-Mobile-Robot)** &nbsp;·&nbsp; MATLAB / Simulink &nbsp;·&nbsp; *team project*
+An autonomous mobile robot that navigates to objects and sorts them into predefined zones, developed and tested in MATLAB.
+**My role:** contributed to the **roadmap / path design** — establishing the analytical starting point, then testing and tuning the path waypoints to produce a collision-free route — and helped develop the **wall-avoidance algorithm** documented in the project report.
 
 ---
 
